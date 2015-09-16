@@ -1,0 +1,5 @@
+001-0711c00	TKD 34-0222a	buddhist/K-koreana/34-tif/0200-0299/34_0222_A.TIF
+001-0712a07	TKD 34-0222b	buddhist/K-koreana/34-tif/0200-0299/34_0222_B.TIF
+001-0712a27	TKD 34-0222c	buddhist/K-koreana/34-tif/0200-0299/34_0222_C.TIF
+001-0712a00	T 001-0712a	buddhist/T-taisho/T17/07/T17-0712.png
+001-0712b00	T 001-0712b	buddhist/T-taisho/T17/07/T17-0712.png
