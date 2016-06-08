@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:20:30.537683
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:43
 #+TITLE: 佛說四無所畏經
 #+PROPERTY: CBETA_ID T17n0775
 #+PROPERTY: ID KR6i0472
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 775
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0472_T_000-0711c>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0472_T_001-0711c> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.775¶
-
- 《佛說四無所畏經》¶
+No. 775¶
+《佛說四無所畏經》¶
 ¶
 西天譯經三藏朝散大夫試鴻臚卿¶
 傳法大師臣施護奉　詔譯¶
@@ -87,9 +86,9 @@ No.775¶
 　身心不動得無畏，
 　利樂一切諸有情，¶
 　令發無上菩提心，
-　恭敬修行到彼岸。」
+　恭敬修行到彼岸。」」
 #+END_VERSE
-」¶
+¶
 
 爾時，諸大苾芻聞佛所說，信受奉行。¶
 《佛說四無所畏經》
